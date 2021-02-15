@@ -13,3 +13,6 @@
 
 # Protected Data Folder
 /ProtectedData
+
+# also ignore .Rproj.user folder and files
+.Rproj.user/**
